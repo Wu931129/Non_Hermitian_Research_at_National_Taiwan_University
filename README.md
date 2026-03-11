@@ -1,12 +1,30 @@
-Theoretical Physics Project Presentations
+# Non-Hermitian Physics and Logarithmic CFT: Research Presentations
 
-This repository contains presentation materials and reports focused on advanced topics in theoretical physics, specifically within the domains of Conformal Field Theory (CFT) and Quantum Field Theory (QFT).
+This repository contains presentation slides, reports, and supplementary materials focused on advanced topics in theoretical physics. The primary research scope encompasses Conformal Field Theory (CFT) and Quantum Field Theory (QFT), with a specific emphasis on the mathematical intersections between Non-Hermitian Bosonization and Logarithmic Conformal Field Theory (LCFT).
 
+## 📂 Contents
 
-📂A Brief Review of Quantum Liouville Theory.pdf
+### [Staggered Modules in Logarithmic CFT: From Free Fields to Liouville Theory]
+This presentation investigates the indecomposable properties and staggered modules inherent in logarithmic conformal field theory. 
 
-An overview of Quantum Liouville Theory, exploring its significance in 2D quantum gravity and non-rational conformal field theory.
+**Key Topics Covered:**
+* Calculation of the indecomposability parameter for free bosons.
+* Explicit construction and analysis of staggered modules.
+* Examination of Liouville theory within a bosonization framework.
+* Comparative analysis between Liouville theory and non-Hermitian fermionic models.
 
-📂Bosonization in 1D and Sine Gordon Model.pdf
+### [A Brief Review of Quantum Liouville Theory](./A_Brief_Review_of_Quantum_Liouville_Theory)
+A comprehensive review of Quantum Liouville Theory framed as an LCFT, highlighting the critical role of degenerate fields and Jordan block structures.
 
-A study on bosonization techniques in one dimension and their application to the Sine-Gordon model, discussing the duality between massive Thirring model and Sine-Gordon theory.
+**Key Topics Covered:**
+* Bosonization techniques applied to non-Hermitian symplectic fermions.
+* Establishment of operator-valued relations between logarithmic and dual primary fields.
+* Theoretical pathways for investigating zero modes and formulating staggered modules.
+
+### [Bosonization in 1D and the Sine-Gordon Model](./Bosonization_in_1D_and_Sine_Gordon_Model)
+This document explores bosonization as a fundamental duality in 1+1-dimensional QFT, mapping free fermionic systems to equivalent free bosonic systems.
+
+**Key Topics Covered:**
+* Rigorous expression of fermionic operators in terms of bosonic fields.
+* Demonstrations of physical equivalence through the comparative analysis of correlation functions and commutation relations.
+* Application of bosonization to derive the Sine-Gordon model from a massive fermionic theory, emphasizing its characteristic cosine interaction term.
