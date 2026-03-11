@@ -4,7 +4,7 @@ This repository contains presentation slides, reports, and supplementary materia
 
 ## 📂 Contents
 
-### [Staggered Modules in Logarithmic CFT: From Free Fields to Liouville Theory](./Staggered_Modules_in_Logarithmic_CFT_From_Free_Fields_to_Liouville_Theory.pdf)
+### [Staggered Modules in Logarithmic CFT: From Free Fields to Liouville Theory](./Staggered_Modules _in_Logarithmic_CFT_From_Free_Fields_to_Liouville_Theory.pdf)
 This presentation investigates the indecomposable properties and staggered modules inherent in logarithmic conformal field theory. 
 
 **Key Topics Covered:**
