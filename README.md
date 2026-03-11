@@ -4,7 +4,7 @@ This repository contains presentation slides, reports, and supplementary materia
 
 ## 📂 Contents
 
-### [Staggered Modules in Logarithmic CFT: From Free Fields to Liouville Theory]
+### [Staggered Modules in Logarithmic CFT: From Free Fields to Liouville Theory](./Staggered Modules in Logarithmic CFT: From Free Fields to Liouville Theory.pdf)
 This presentation investigates the indecomposable properties and staggered modules inherent in logarithmic conformal field theory. 
 
 **Key Topics Covered:**
@@ -13,7 +13,7 @@ This presentation investigates the indecomposable properties and staggered modul
 * Examination of Liouville theory within a bosonization framework.
 * Comparative analysis between Liouville theory and non-Hermitian fermionic models.
 
-### [A Brief Review of Quantum Liouville Theory](./A_Brief_Review_of_Quantum_Liouville_Theory)
+### [A Brief Review of Quantum Liouville Theory](./A_Brief_Review_of_Quantum_Liouville_Theory.pdf)
 A comprehensive review of Quantum Liouville Theory framed as an LCFT, highlighting the critical role of degenerate fields and Jordan block structures.
 
 **Key Topics Covered:**
@@ -21,7 +21,7 @@ A comprehensive review of Quantum Liouville Theory framed as an LCFT, highlighti
 * Establishment of operator-valued relations between logarithmic and dual primary fields.
 * Theoretical pathways for investigating zero modes and formulating staggered modules.
 
-### [Bosonization in 1D and the Sine-Gordon Model](./Bosonization_in_1D_and_Sine_Gordon_Model)
+### [Bosonization in 1D and the Sine-Gordon Model](./Bosonization_in_1D_and_Sine_Gordon_Model.pdf)
 This document explores bosonization as a fundamental duality in 1+1-dimensional QFT, mapping free fermionic systems to equivalent free bosonic systems.
 
 **Key Topics Covered:**
